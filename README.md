@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou a Maria Clara 👋
 
-<!--
-**mariaclarati/mariaclarati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação/ Atualmente no 5º período
+💻 Apaixonada por Cibersegurança
+📍 Brasil, MG
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Python
+- Java
+- HTML, CSS & JavaScript
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Andamento
+- Sistema de folha de pagamento em Java
+- Estudos de segurança com Wireshark
+  
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/maria-clara-miranda-8a8227309/
+- Email: mariaclaramirandapaula@gmail.com
