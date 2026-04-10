@@ -1,8 +1,8 @@
 # Olá, eu sou a Maria Clara 👋
 
-🎓 Estudante de Sistemas de Informação/ Atualmente no 5º período
-💻 Apaixonada por Cibersegurança
-📍 Brasil, MG
+- 🎓 Estudante de Sistemas de Informação/ Atualmente no 5º período
+- 💻 Apaixonada por Cibersegurança
+- 📍 Brasil, MG
 
 ## 🛠️ Tecnologias
 - Python
